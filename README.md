@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abc123-ash/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
