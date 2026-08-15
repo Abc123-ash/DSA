@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abc123-ash/DSA/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Abc123-ash/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
