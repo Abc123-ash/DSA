@@ -45,4 +45,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
