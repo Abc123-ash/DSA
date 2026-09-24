@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abc123-ash/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abc123-ash/DSA/tree/master/0118-pascals-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -15,10 +16,12 @@
 | ------- |
 | [0027-remove-element](https://github.com/Abc123-ash/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
