@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abc123-ash/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abc123-ash/DSA/tree/master/0118-pascals-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -60,4 +61,20 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
