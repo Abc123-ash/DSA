@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Abc123-ash/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abc123-ash/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abc123-ash/DSA/tree/master/0066-plus-one) |
@@ -29,6 +30,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 ## Math
 |  |
