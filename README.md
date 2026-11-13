@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abc123-ash/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abc123-ash/DSA/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abc123-ash/DSA/tree/master/0043-multiply-strings) |
 | [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Abc123-ash/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
