@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Abc123-ash/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abc123-ash/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Abc123-ash/DSA/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Abc123-ash/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Abc123-ash/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abc123-ash/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abc123-ash/DSA/tree/master/0118-pascals-triangle) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abc123-ash/DSA/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/Abc123-ash/DSA/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/Abc123-ash/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -89,4 +91,16 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abc123-ash/DSA/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Abc123-ash/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Abc123-ash/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Abc123-ash/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
